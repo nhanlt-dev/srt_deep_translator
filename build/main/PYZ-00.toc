@@ -1,0 +1,1976 @@
+('D:\\CODETOOL\\srt_deep_translatorUpdateFix\\build\\main\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4._deprecation',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_deprecation.py',
+   'PYMODULE'),
+  ('bs4._typing',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_typing.py',
+   'PYMODULE'),
+  ('bs4._warnings',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\_warnings.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\exceptions.py',
+   'PYMODULE'),
+  ('bs4.filter',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\filter.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('cache_manager',
+   'D:\\CODETOOL\\srt_deep_translatorUpdateFix\\cache_manager.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('deep_translator',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\__init__.py',
+   'PYMODULE'),
+  ('deep_translator.baidu',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\baidu.py',
+   'PYMODULE'),
+  ('deep_translator.base',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\base.py',
+   'PYMODULE'),
+  ('deep_translator.chatgpt',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\chatgpt.py',
+   'PYMODULE'),
+  ('deep_translator.constants',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\constants.py',
+   'PYMODULE'),
+  ('deep_translator.deepl',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\deepl.py',
+   'PYMODULE'),
+  ('deep_translator.detection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\detection.py',
+   'PYMODULE'),
+  ('deep_translator.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\exceptions.py',
+   'PYMODULE'),
+  ('deep_translator.google',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\google.py',
+   'PYMODULE'),
+  ('deep_translator.libre',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\libre.py',
+   'PYMODULE'),
+  ('deep_translator.linguee',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\linguee.py',
+   'PYMODULE'),
+  ('deep_translator.microsoft',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\microsoft.py',
+   'PYMODULE'),
+  ('deep_translator.mymemory',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\mymemory.py',
+   'PYMODULE'),
+  ('deep_translator.papago',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\papago.py',
+   'PYMODULE'),
+  ('deep_translator.pons',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\pons.py',
+   'PYMODULE'),
+  ('deep_translator.qcri',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\qcri.py',
+   'PYMODULE'),
+  ('deep_translator.validate',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\validate.py',
+   'PYMODULE'),
+  ('deep_translator.yandex',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\deep_translator\\yandex.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gui', 'D:\\CODETOOL\\srt_deep_translatorUpdateFix\\gui.py', 'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('h2',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\__init__.py',
+   'PYMODULE'),
+  ('h2.config',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\config.py',
+   'PYMODULE'),
+  ('h2.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\connection.py',
+   'PYMODULE'),
+  ('h2.errors',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\errors.py',
+   'PYMODULE'),
+  ('h2.events',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\events.py',
+   'PYMODULE'),
+  ('h2.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\exceptions.py',
+   'PYMODULE'),
+  ('h2.frame_buffer',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\frame_buffer.py',
+   'PYMODULE'),
+  ('h2.settings',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\settings.py',
+   'PYMODULE'),
+  ('h2.stream',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\stream.py',
+   'PYMODULE'),
+  ('h2.utilities',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\utilities.py',
+   'PYMODULE'),
+  ('h2.windows',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\h2\\windows.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('hpack',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\__init__.py',
+   'PYMODULE'),
+  ('hpack.compat',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\compat.py',
+   'PYMODULE'),
+  ('hpack.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\exceptions.py',
+   'PYMODULE'),
+  ('hpack.hpack',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\hpack.py',
+   'PYMODULE'),
+  ('hpack.huffman',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\huffman.py',
+   'PYMODULE'),
+  ('hpack.huffman_constants',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\huffman_constants.py',
+   'PYMODULE'),
+  ('hpack.huffman_table',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\huffman_table.py',
+   'PYMODULE'),
+  ('hpack.struct',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\struct.py',
+   'PYMODULE'),
+  ('hpack.table',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hpack\\table.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('hyperframe',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hyperframe\\__init__.py',
+   'PYMODULE'),
+  ('hyperframe.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hyperframe\\exceptions.py',
+   'PYMODULE'),
+  ('hyperframe.flags',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hyperframe\\flags.py',
+   'PYMODULE'),
+  ('hyperframe.frame',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\hyperframe\\frame.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.commondialog',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\commondialog.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.dialog',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\dialog.py',
+   'PYMODULE'),
+  ('tkinter.filedialog',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\filedialog.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.messagebox',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\messagebox.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.simpledialog',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\simpledialog.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('translator',
+   'D:\\CODETOOL\\srt_deep_translatorUpdateFix\\translator.py',
+   'PYMODULE'),
+  ('ttkbootstrap',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.colorutils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\colorutils.py',
+   'PYMODULE'),
+  ('ttkbootstrap.constants',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\constants.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colorchooser',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\colorchooser.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colordropper',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\colordropper.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.dialogs',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\dialogs.py',
+   'PYMODULE'),
+  ('ttkbootstrap.icons',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\icons.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgcat',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\msgcat.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgs',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\msgs.py',
+   'PYMODULE'),
+  ('ttkbootstrap.publisher',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\publisher.py',
+   'PYMODULE'),
+  ('ttkbootstrap.style',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\style.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.standard',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\standard.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.user',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\user.py',
+   'PYMODULE'),
+  ('ttkbootstrap.tooltip',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\tooltip.py',
+   'PYMODULE'),
+  ('ttkbootstrap.utility',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\utility.py',
+   'PYMODULE'),
+  ('ttkbootstrap.validation',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\validation.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\widgets.py',
+   'PYMODULE'),
+  ('ttkbootstrap.window',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\window.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\LE THIEN '
+   'NHAN\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE')])

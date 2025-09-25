@@ -1,0 +1,3 @@
+Remove-Item -Recurse -Force build, dist, __pycache__
+pyinstaller --noconsole --onefile --icon=assets/icons/logo.ico main.py
+pyinstaller --onefile --noconsole main.py
