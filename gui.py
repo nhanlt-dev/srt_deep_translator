@@ -13,13 +13,12 @@ class TranslatorGUI(tb.Window):
     def __init__(self):
         super().__init__(themename="flatly")
         self.title("SRT/VTT Translator — by LTN")
-        self.minsize(860, 650)      # chỉ set minsize, không cố định geometry
+        self.minsize(960, 850)  
         self.resizable(True, True)
-        self.configure(padx=6, pady=6)  # viền ngoài gọn đẹp
+        self.configure(padx=6, pady=6) 
 
         self.grid_columnconfigure(0, weight=1)
-        self.grid_rowconfigure(2, weight=1)  # log box chiếm phần còn lại
-
+        self.grid_rowconfigure(4, weight=1)  
         # state
         self.files = []
         self.output_folder = None
@@ -54,7 +53,7 @@ class TranslatorGUI(tb.Window):
 
         tb.Button(file_frame, text="📂 Chọn file SRT/VTT", bootstyle="primary",
                   command=self.choose_files).grid(row=0, column=0, padx=6, pady=6, sticky="w")
-        tb.Button(file_frame, text="📁 Chọn folder", bootstyle="info",
+        tb.Button(file_frame, text="📁 Chọn folder (quét đệ quy)", bootstyle="info",
                   command=self.choose_folder).grid(row=0, column=1, padx=6, pady=6, sticky="w")
         self.files_label = tb.Label(file_frame, text="Chưa chọn file", bootstyle="secondary")
         self.files_label.grid(row=0, column=2, padx=8, sticky="w")
@@ -144,40 +143,23 @@ class TranslatorGUI(tb.Window):
         self.total_progress = tb.Progressbar(prog_frame, maximum=100, bootstyle="success-striped")
         self.total_progress.grid(row=3, column=0, sticky="ew", padx=4, pady=3)
 
-        tb.Label(prog_frame, text="Log:").grid(
-            row=4, column=0, sticky="nw", padx=4, pady=(6, 2)
-        )
-
-        self.log_box = scrolledtext.ScrolledText(
-            prog_frame, 
-            wrap="word", 
-            font=("Consolas", 10), 
-            relief="solid", 
-            borderwidth=1,
-            height=7   # cố định khoảng 7 dòng
-        )
+        tb.Label(prog_frame, text="Log:").grid(row=4, column=0, sticky="nw", padx=4, pady=(6, 2))
+        self.log_box = scrolledtext.ScrolledText(prog_frame, height=10, wrap="word", font=("Consolas", 9))
         self.log_box.grid(row=5, column=0, sticky="nsew", padx=4, pady=(2, 4))
-        # Cho phép log_box chiếm nhiều không gian hơn khi resize
-        prog_frame.rowconfigure(5, weight=2)
-        prog_frame.columnconfigure(0, weight=1)
 
         # 6) Footer
         footer_frame = tb.Frame(self)
-        footer_frame.grid(row=5, column=0, sticky="ew", padx=PADX, pady=(2, 6))
-        tb.Separator(footer_frame, orient=HORIZONTAL).pack(fill="x", pady=(2, 2))
+        footer_frame.grid(row=5, column=0, sticky="ew", padx=PADX, pady=(2, 8))
+        tb.Separator(footer_frame, orient=HORIZONTAL).pack(fill="x", pady=(0, 4))
+        tb.Label(footer_frame,
+                 text="By Designer & Developer: LTN — nhanlt.dev",
+                 font=("Segoe UI", 9, "italic"),
+                 anchor=CENTER,
+                 bootstyle="secondary").pack(fill="x")
 
-        # dòng thông tin nhỏ gọn
-        info_frame = tb.Frame(footer_frame)
-        info_frame.pack(fill="x")
-        tb.Label(info_frame,
-                text="By Designer & Developer: LTN — nhanlt.dev",
-                font=("Segoe UI", 8, "italic"),
-                anchor=W,
-                bootstyle="secondary").pack(side="left", padx=4)
-        self.cache_label = tb.Label(info_frame, text="Cache size: 0.00 MB",
-                                    font=("Segoe UI", 8), bootstyle="secondary")
-        self.cache_label.pack(side="right", padx=4)
-
+        self.cache_label = tb.Label(footer_frame, text="Cache size: 0.00 MB",
+                                    font=("Segoe UI", 9), bootstyle="secondary")
+        self.cache_label.pack(fill="x")
 
         self._log("Ứng dụng sẵn sàng. Chọn file hoặc folder để bắt đầu.")
 
